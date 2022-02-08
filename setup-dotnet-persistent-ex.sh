@@ -1,5 +1,5 @@
 # Create a new OpenShift project
-oc new-project mydemo55
+oc new-project mydemo
 
 # Add the database
 oc new-app postgresql-ephemeral
